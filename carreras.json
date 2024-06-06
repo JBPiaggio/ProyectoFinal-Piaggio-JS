@@ -1,0 +1,26 @@
+[
+    {
+        "carrera": "Ingeniería en Sistemas",
+        "cantidad_de_materias":36,
+        "duracion":"10 semestres",
+        "descripcion":"La carrera de Ingeniería en Sistemas se centra en el diseño, desarrollo y gestión de sistemas informáticos. Los estudiantes aprenden programación, bases de datos, redes y seguridad de la información, preparándose para optimizar procesos y crear soluciones tecnológicas en diversas industrias."
+    },
+    {
+        "carrera": "Tecnicatura en Programación",
+        "cantidad_de_materias":21,
+        "duracion":"6 semestres",
+        "descripcion":"La carrera de Tecnicatura en Programación se enfoca en formar profesionales capacitados en el desarrollo de software. Los estudiantes aprenden lenguajes de programación, bases de datos y metodologías de desarrollo, adquiriendo habilidades para crear y mantener aplicaciones informáticas eficientes y funcionales en diversos entornos tecnológicos."
+    },
+    {
+        "carrera": "Ingeniería Mecánica",
+        "cantidad_de_materias":40,
+        "duracion":"11 semestres",
+        "descripcion":"La carrera de Ingeniería Mecánica se dedica al diseño, análisis, fabricación y mantenimiento de sistemas mecánicos. Los estudiantes aprenden sobre mecánica de materiales, termodinámica, dinámica de fluidos y control de sistemas, preparándose para desarrollar soluciones innovadoras en sectores como la automoción, energía, manufactura y robótica."
+    },
+    {
+        "carrera": "Licenciatura en Biología",
+        "cantidad_de_materias":38,
+        "duracion":"10 semestres",
+        "descripcion":"La carrera de Licenciatura en Biología se centra en el estudio de los seres vivos y sus procesos vitales. Los estudiantes adquieren conocimientos en áreas como genética, ecología, microbiología y biotecnología, preparándose para investigar, conservar y gestionar la biodiversidad, así como para aplicar sus conocimientos en salud, medio ambiente y biotecnología."
+    }
+]
